@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Lobster&family=Pacifico&display=swap');
+
+p {
+    font-family: 'Comforter'; 
+    font-weight: 400;
+    font-size: 36px;
+    color: purple;
+}
