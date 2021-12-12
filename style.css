@@ -6,3 +6,9 @@ p {
     font-size: 36px;
     color: purple;
 }
+
+#error {
+    font-size: 72pt;
+    color:purple;
+    padding-left: 500px;
+}
