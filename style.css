@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Comforter&family=Lobster&family=Pacifico&display=swap');
 
+header, footer {
+    background-color:red;
+}
+
 p {
     font-family: 'Comforter'; 
     font-weight: 400;
